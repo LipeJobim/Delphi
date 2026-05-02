@@ -1,2 +1,2 @@
-#Ordem de serviços de uma mecânica em Delphi 
-#Projeto da faculdade
+Sistema de ordens de serviços de uma mecânica em Delphi 
+
